@@ -6,6 +6,12 @@
 - NodeJS should be installed on your system 
 - npm and create-react-app should be installed  
 
+
+## UI Screenshots
+![Default Home View](Output1.png "Title")
+
+![Default Home View](Output2.png "Title")
+
 ## How To Run App
 
 - Clone Project from github repository :
